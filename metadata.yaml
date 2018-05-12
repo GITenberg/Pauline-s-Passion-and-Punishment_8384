@@ -1,5 +1,8 @@
 _repo: Pauline-s-Passion-and-Punishment_8384
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Alcott, Louisa May
@@ -20,6 +23,8 @@ description: To and fro, like a wild creature in its cage, paced that handsome w
   at her feet, leaving the lace rent to shreds on the indignant bosom that had worn
   it; the wreaths of hair that had crowned her with a woman's most womanly adornment
   fell diso.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/8384#Pauline-s-Passion-and-Punishment
 gutenberg_issued: '2005-06-01'
 gutenberg_type: Text
 identifiers:
